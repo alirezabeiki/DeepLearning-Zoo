@@ -5,6 +5,7 @@
 
 ## 2021
 * Polarized Self-Attention: Towards High-quality Pixel-wise Regression. ([PyTorch](https://github.com/DeLightCMU/PSA))
+* Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification. ([PyTorch](https://github.com/raoyongming/CAL))
 
 
 

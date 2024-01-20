@@ -12,6 +12,7 @@
 ### 2022
 * PointAttN: You Only Need Attention for Point Cloud Completion. ([PyTorch](https://github.com/ohhhyeahhh/PointAttN))
 * Stratified Transformer for 3D Point Cloud Segmentation. ([PyTorch](https://github.com/dvlab-research/Stratified-Transformer))
+* Point-BERT Pre-training 3D Point Cloud Transformers with Masked Point Modeling. ([PyTorch](https://github.com/lulutang0608/Point-BERT))
 
 
 ## Some Repositories
