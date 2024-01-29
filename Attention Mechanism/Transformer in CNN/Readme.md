@@ -10,6 +10,8 @@
 * Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning. ([PyTorch](https://github.com/YehLi/ImageNetModel))
 * HorNet: Efficient High-Order Spatial Interactions with Recursive Gated Convolutions. ([PyTorch](https://github.com/raoyongming/HorNet))
 * AMixer: Adaptive Weight Mixing for Self-attention Free Vision Transformers. ([PyTorch](https://github.com/raoyongming/AMixer))
+* SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer. ([PyTorch](https://github.com/Linfeng-Tang/SwinFusion))
+
 
 
 ## 2023

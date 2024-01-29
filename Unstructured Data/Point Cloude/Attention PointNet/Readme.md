@@ -8,6 +8,8 @@
 * DAPnet: A Double Self-attention Convolutional Network for Point Cloud Semantic Labeling. ([PyTorch](https://github.com/RayleighChen/point-attention))
 * Point Transformer. ([PyTorch](https://github.com/lucidrains/point-transformer-PyTorch), [PyTorch](https://github.com/Meowuu7/Point-Transformer))
 * Point Transformer. ([PyTorch](https://github.com/engelnico/point-transformer))
+* Unsupervised Point Cloud Object Co-segmentation by Co-Contrastive learning and Mutual Attention Sampling. ([PyTorch](https://github.com/jimmy15923/unsup_point_coseg))
+
 
 ### 2022
 * PointAttN: You Only Need Attention for Point Cloud Completion. ([PyTorch](https://github.com/ohhhyeahhh/PointAttN))

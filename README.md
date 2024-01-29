@@ -18,6 +18,8 @@ You can navigate through the repository to find code related to specific papers 
 * Deep Learning Specialization on Coursera (Andrew Ng). ([TensorFlow](https://github.com/sachinbhoi29/deep-learning-coursera))
 
 ## Books:
+* Understanding Deep Learning. ([PDF, Slides and Notebooks](https://udlbook.github.io/udlbook/))
+* Hands-On Data Preprocessing in Python. ([Codes](https://github.com/PacktPublishing/Hands-On-Data-Preprocessing-in-Python))
 * [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf)
 * [A list of deep learning papers and notes on them](https://github.com/loliverhennigh/Deep-Learning-Papers)
 

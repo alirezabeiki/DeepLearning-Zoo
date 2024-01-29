@@ -36,12 +36,15 @@
 * FPConv Learning Local Flattening for Point Convolution. ([PyTorch](https://github.com/lyqun/FPConv))
 * PUGeo-Net A Geometry-centric Network for3D Point Cloud Upsampling. ([PyTorch](https://github.com/UncleMEDM/PUGAN-pytorch), [TensorFlow](https://github.com/ninaqy/PUGeo))
 * Global-Local Bidirectional Reasoning for Unsupervised Representation Learning of 3D Point Clouds. ([PyTorch](https://github.com/raoyongming/PointGLR))
+* SampleNet: Differentiable Point Cloud Sampling. ([PyTorch](https://github.com/itailang/SampleNet))
+
 
 ## 2021
 * PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds. ([PyTorch](https://github.com/CVMI-Lab/PAConv))
 * Deep Learning for 3D Point Clouds: A Survey. ([Repository](https://github.com/QingyongHu/SoTA-Point-Cloud))
 * PU-GCN Point Cloud Upsampling using Graph Convolutional Networks. ([TensorFlow](https://github.com/guochengqian/PU-GCN))
 * Enhanced Point Cloud Upsampling using Multi-branch Network and Attention Fusion. ([PyTorch](https://github.com/stevenlin510/Enhanced_PCU))
+
 
 ## 2022
 * Rethinking Network Design and Local Geometry in Point Cloud A Simple Residual MLP Framework. ([PytTorch](https://github.com/ma-xu/pointMLP-PyTorch))
